@@ -1,4 +1,4 @@
 LinkedList
 ==========
 
-One-Linked List 
+One-Linked List & Double-Linked List
